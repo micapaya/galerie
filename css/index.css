@@ -1,9 +1,23 @@
 header h1 {
   font-family: 'Gloria Hallelujah', cursive;
+  font-size: 57px;
+  padding: 10px;
   text-align: center;
 }
+
+header a{
+  color: #5593c4;
+}
+
+header a:hover{
+  text-decoration: none;
+  color: #5593c4;
+  }
+
 section img {
   height: 50%;
   width: 50%;
-  margin-left: 300px;
+  margin-left: 310px;
+  text-align: center;
+  text-decoration: none;
 }
