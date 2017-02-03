@@ -1,0 +1,23 @@
+header nav{
+  text-align:center;
+}
+
+header nav ul li{
+     background:linear-gradient#90C, #8600B3);
+     display:inline;
+     font-family: 'Raleway', sans-serif;
+     font-size: 20px;
+     list-style-type: none;
+}
+
+ header nav ul li a{
+     color: white;
+     background: #5593c4;
+     transition: background 0.5s;
+}
+
+header nav ul li a:hover{
+     background: transparent;
+     transition: background 0s;
+     text-decoration: none;
+}
