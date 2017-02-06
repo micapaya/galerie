@@ -1,1 +1,28 @@
+header nav{
+  padding: 15px;
+  text-align:center;
+}
 
+header nav ul li{
+     background:linear-gradient#90C, #8600B3);
+     border-radius: 2px;
+     display:inline;
+     font-family: 'Raleway', sans-serif;
+     font-size: 20px;
+     list-style-type: none;
+}
+
+ header nav ul li a{
+     color: blue;
+     background: #white;
+     transition: background 0.7s;
+}
+
+header nav ul li a:hover{
+     background-color: salmon;
+     transition: background 0s;
+     text-decoration: none;
+}
+
+header nav ul li a:visited{
+  text-decoration: none;
