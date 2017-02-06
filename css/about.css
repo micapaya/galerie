@@ -13,13 +13,17 @@ header nav ul li{
 }
 
  header nav ul li a{
-     color: white;
-     background: #5593c4;
-     transition: background 0.5s;
+     color: blue;
+     background: #white;
+     transition: background 0.7s;
 }
 
 header nav ul li a:hover{
-     background: transparent;
+     background-color: salmon;
      transition: background 0s;
      text-decoration: none;
+}
+
+header nav ul li a:visited{
+  text-decoration: none;
 }
