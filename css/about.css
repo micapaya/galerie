@@ -21,8 +21,8 @@ header nav ul li{
 
 
 #about {
-  background-color: #E82929;
-  border-radius: 5px;
+  background-color: #ff2c2c;
+  border-radius: 30px;
   color: black;
   padding: 5px;
   text-decoration: none;
@@ -32,7 +32,7 @@ header nav ul li{
 
 
 #actus a:hover {
-       background-color: #F86F1C;
+       background-color: #fd9541;
        border-radius: 5px;
        color: black;
        transition: background 0s;
@@ -47,28 +47,28 @@ header nav ul li{
 }
 
 #artistes a:hover {
-       background-color: #22B730;
+       background-color: #9ce312;
        border-radius: 5px;
        color: black;
        text-decoration: none;
 }
 
 #ateliers a:hover {
-       background-color: #5A9DD5;
+       background-color: #21c4ed;
        border-radius: 5px;
        color: black;
        text-decoration: none;
 }
 
 #acces a:hover {
-       background-color: #d068c2;
+       background-color: #cc5bfb;
        border-radius: 5px;
        color: black;
        text-decoration: none;
 }
 
 #contact a:hover {
-       background-color: #F45C80;
+       background-color: #ff7f7f;
        border-radius: 5px;
        color: black;
        text-decoration: none;
